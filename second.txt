@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6EB6-3C92
+
+ Directory of C:\Users\Shivu\Desktop\git folder
+
+27-Feb-19  02:54 PM    <DIR>          .
+27-Feb-19  02:54 PM    <DIR>          ..
+27-Feb-19  02:54 PM                 0 second.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,451,035,648 bytes free
